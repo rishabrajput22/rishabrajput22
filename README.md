@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rishab Rajput
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m a Frontend Developer
 - 📫 How to reach me rrajput22497@gmail.com
 
 <!---
