@@ -18,7 +18,6 @@
 <a href="https://codepen.io/rishabrajput22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rishabrajput22" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rishrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishrajput" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18967641" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18967641" height="30" width="40" /></a>
-<a href="https://fb.com/rishab rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishab rajput" height="30" width="40" /></a>
 <a href="https://instagram.com/the_dark_knight_rr10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_dark_knight_rr10" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rrajput22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rrajput22" height="30" width="40" /></a>
 </p>
