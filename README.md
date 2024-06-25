@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rishab Rajput</h1>
+
+<p align="center">
+  <img src="https://github.com/rishabrajput22/rishabrajput22/blob/main/Screenshot%20(1397).png" alt="Frontend Developer - Rishab Rajput" />
+</p>
+
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
 - 🔭 I’m currently working on **E-commerce project similar to Amazon**
